@@ -2,14 +2,14 @@
 
 TDWTFUA is a chrome extension directed for TDWTF users, it currently has 4 functions:
 
-##Cornify:
+## Cornify:
 Reveals cornify span elements with Magenta color.
 
-##Hidden Comments:
+## Hidden Comments:
 Shows the famous HTML comments that contain more info on the article.
 
-##Easy Reader Version Comment:
+## Easy Reader Version Comment:
 Gets converted into an TL;DR span element with Red color.
 
-##Random Article!
+## Random Article!
 Clicking in the extension icon will automatically create an new tab with a random TDWTF article.
